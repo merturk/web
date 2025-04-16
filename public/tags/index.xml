@@ -1,54 +1,54 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Tag - Mehmet Ali Erturk</title>
-        <link>http://localhost:59522/tags/</link>
+        <link>http://localhost:53688/tags/</link>
         <description>Tags - Tag - Mehmet Ali Erturk</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 30 Dec 2024 21:57:40 &#43;0800</lastBuildDate><atom:link href="http://localhost:59522/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 30 Dec 2024 21:57:40 &#43;0800</lastBuildDate><atom:link href="http://localhost:53688/tags/" rel="self" type="application/rss+xml" /><item>
     <title>Kindle</title>
-    <link>http://localhost:59522/tags/kindle/</link>
+    <link>http://localhost:53688/tags/kindle/</link>
     <pubDate>Mon, 30 Dec 2024 21:57:40 &#43;0800</pubDate>
     <author>Mehmet Ali Erturk</author>
-    <guid>http://localhost:59522/tags/kindle/</guid>
+    <guid>http://localhost:53688/tags/kindle/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Reading</title>
-    <link>http://localhost:59522/tags/reading/</link>
+    <link>http://localhost:53688/tags/reading/</link>
     <pubDate>Mon, 30 Dec 2024 21:57:40 &#43;0800</pubDate>
     <author>Mehmet Ali Erturk</author>
-    <guid>http://localhost:59522/tags/reading/</guid>
+    <guid>http://localhost:53688/tags/reading/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Technology</title>
-    <link>http://localhost:59522/tags/technology/</link>
+    <link>http://localhost:53688/tags/technology/</link>
     <pubDate>Mon, 30 Dec 2024 21:57:40 &#43;0800</pubDate>
     <author>Mehmet Ali Erturk</author>
-    <guid>http://localhost:59522/tags/technology/</guid>
+    <guid>http://localhost:53688/tags/technology/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>AI</title>
-    <link>http://localhost:59522/tags/ai/</link>
+    <link>http://localhost:53688/tags/ai/</link>
     <pubDate>Sun, 12 May 2024 21:57:40 &#43;0800</pubDate>
     <author>Mehmet Ali Erturk</author>
-    <guid>http://localhost:59522/tags/ai/</guid>
+    <guid>http://localhost:53688/tags/ai/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Digital Twin</title>
-    <link>http://localhost:59522/tags/digital-twin/</link>
+    <link>http://localhost:53688/tags/digital-twin/</link>
     <pubDate>Sun, 12 May 2024 21:57:40 &#43;0800</pubDate>
     <author>Mehmet Ali Erturk</author>
-    <guid>http://localhost:59522/tags/digital-twin/</guid>
+    <guid>http://localhost:53688/tags/digital-twin/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Machine Learning</title>
-    <link>http://localhost:59522/tags/machine-learning/</link>
+    <link>http://localhost:53688/tags/machine-learning/</link>
     <pubDate>Sun, 12 May 2024 21:57:40 &#43;0800</pubDate>
     <author>Mehmet Ali Erturk</author>
-    <guid>http://localhost:59522/tags/machine-learning/</guid>
+    <guid>http://localhost:53688/tags/machine-learning/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>

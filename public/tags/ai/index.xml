@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>AI - Tag - Mehmet Ali Erturk</title>
-        <link>http://localhost:59522/tags/ai/</link>
+        <link>http://localhost:53688/tags/ai/</link>
         <description>AI - Tag - Mehmet Ali Erturk</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 12 May 2024 21:57:40 &#43;0800</lastBuildDate><atom:link href="http://localhost:59522/tags/ai/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 12 May 2024 21:57:40 &#43;0800</lastBuildDate><atom:link href="http://localhost:53688/tags/ai/" rel="self" type="application/rss+xml" /><item>
     <title>Digital Twins Selected Reading: Predictive Modeling in Wind Turbines</title>
-    <link>http://localhost:59522/posts/dt-wind-turbines/</link>
+    <link>http://localhost:53688/posts/dt-wind-turbines/</link>
     <pubDate>Sun, 12 May 2024 21:57:40 &#43;0800</pubDate>
     <author>merturk</author>
-    <guid>http://localhost:59522/posts/dt-wind-turbines/</guid>
+    <guid>http://localhost:53688/posts/dt-wind-turbines/</guid>
     <description><![CDATA[<p>Digital Twin (DT) is a technology that creates a virtual replica of physical entities and processes for real-time analysis. DT approach enables what-if analysis over with high accuracy models that classic simulations cannot handle.</p>
 <p><figure><a class="lightgallery" href="/posts/dt-wind-turbines/dt.png" title="Digital Twin Arch" data-thumbnail="/posts/dt-wind-turbines/dt.png" data-sub-html="<h2>Digital Twin Arch</h2><p>Digital Twin Arch</p>">
         
